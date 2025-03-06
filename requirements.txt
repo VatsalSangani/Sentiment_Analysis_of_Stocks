@@ -1,0 +1,12 @@
+yfinance
+nltk
+vaderSentiment
+requests
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+statsmodel.api
+scipy.stats
+scikit-learn
+tensorflow
